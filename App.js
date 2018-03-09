@@ -8,7 +8,7 @@ export default class App extends React.Component {
           <View style={styles.container}>
             <Image></Image>
             <Text style={styles.bigFont}>Hello World!</Text>
-            <Text style={styles.bigFont}>I'm the flash,</Text>
+            <Text style={styles.bigFont}>I'm the flash,...</Text>
             <Text style={styles.bigFont}>The fastest man alive..</Text>
           </View>
       </View>
